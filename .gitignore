@@ -2,4 +2,3 @@ dist/
 .github
 .pytest_cache/
 survival_model_api\survival_model-0.0.1-py3-none-any.whl
-survival_model_api/survivalapivenv/
